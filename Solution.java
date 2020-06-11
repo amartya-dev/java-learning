@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Solution {
 
-    public static int [] computeSignature()
+    public static int [] computeSignature();
 
     public static ArrayList <String> getAllSubstrings (String str){
         ArrayList<String> allSubString = new ArrayList<String>();
