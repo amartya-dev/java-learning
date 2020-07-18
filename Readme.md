@@ -1,4 +1,4 @@
-# Learning Java and Python
+# Learning Java
 
 ## Java classes and interfaces
 - Objects encapsulate data, operations and usage semantics.
@@ -132,6 +132,4 @@
   - The method name
 - The call to other overloaded method does not have to be the first line in the overloaded method while in constructor overloading it has to be.
 - When the compiler cannot find an exact match for the call of the method due to the use of datatypes, the compiler will start looking for opportunities with type conversions eg- short can be converted to int.
-
-
 
